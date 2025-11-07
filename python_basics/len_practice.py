@@ -1,5 +1,5 @@
 # Create variables
-var1 = [1, 2, 3, 4]
+var1 = ["a","b","c"]
 var2 = True   # Boolean value
 
 print(type(var1))   # <class "list">
